@@ -11,9 +11,9 @@ Finally go to sleep until next WOL.
 
 References: (examples  from arduino/ESP32 libraries)
 
-BasicHttpsClient
-Blinker
-HTTPSRequest
-SimpleWiFiServer
-test_ping
-WakeOnLan-ESP32
+- BasicHttpsClient
+- Blinker
+- HTTPSRequest
+- SimpleWiFiServer
+- test_ping
+- WakeOnLan-ESP32
