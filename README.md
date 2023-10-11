@@ -1,7 +1,9 @@
 # WOOL
 Wake On Lan with ESP32
 
-Monitor remote server command, e.g. via https connection to https://your_cute_server.com/switch.html 
+(Would like to advertise this cute module ESP32C3 superMini and support RISC-V)
+
+Monitor remote server command, e.g. via https connection to https://your_smart_server.com/switch.html 
 
 If GET "On", send WOL over WIFI to wake up some PC
 
